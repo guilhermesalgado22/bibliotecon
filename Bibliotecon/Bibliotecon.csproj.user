@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Forms\CadastrarDevolucao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\CadastrarExemplar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\CadastrarFuncionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\CadastrarReserva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\CadastroLivros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ConsultaEmprestimo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ConsultarDevolucao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ConsultarFuncionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ConsultarLivros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ConsultarReservas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ConsultarSelecao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\CadastrarEmprestimo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserControls\UserControlCadastroExemplar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\UserControlCadLivros.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\UserControlConsultaSelecao.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\UserControlDevolucao.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\UserControlCadastroFunc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\UserControlEmprestimo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\UserControlReserva.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

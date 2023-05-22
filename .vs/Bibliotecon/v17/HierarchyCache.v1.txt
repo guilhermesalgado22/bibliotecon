@@ -1,0 +1,289 @@
+﻿++Solução 'Bibliotecon' ‎(1 de 1 projeto)
+i:{00000000-0000-0000-0000-000000000000}:Bibliotecon.sln
+++Bibliotecon
+i:{00000000-0000-0000-0000-000000000000}:Bibliotecon
+++Dependências
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:>690
+++Properties
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\properties\
+++Dto
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\dto\
+++CadastroLivroRequest.cs
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\dto\cadastrolivrorequest.cs
+++CadastroLivroResponse.cs
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\dto\cadastrolivroresponse.cs
+++Forms
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\forms\
+++CadastrarDevolucao.cs
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\forms\cadastrardevolucao.cs
+++CadastrarDevolucao.Designer.cs
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\forms\cadastrardevolucao.designer.cs
+++CadastrarDevolucao.resx
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\forms\cadastrardevolucao.resx
+++CadastrarEmprestimo.cs
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\forms\cadastraremprestimo.cs
+++CadastrarEmprestimo.Designer.cs
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\forms\cadastraremprestimo.designer.cs
+++CadastrarEmprestimo.resx
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\forms\cadastraremprestimo.resx
+++CadastrarExemplar.cs
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\forms\cadastrarexemplar.cs
+++CadastrarFuncionario.cs
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\forms\cadastrarfuncionario.cs
+++CadastrarFuncionario.Designer.cs
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\forms\cadastrarfuncionario.designer.cs
+++CadastrarFuncionario.resx
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\forms\cadastrarfuncionario.resx
+++CadastrarReserva.cs
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\forms\cadastrarreserva.cs
+++CadastrarReserva.Designer.cs
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\forms\cadastrarreserva.designer.cs
+++CadastrarReserva.resx
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\forms\cadastrarreserva.resx
+++CadastroLivros.cs
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\forms\cadastrolivros.cs
+++ConsultaEmprestimo.cs
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\forms\consultaemprestimo.cs
+++ConsultaEmprestimo.Designer.cs
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\forms\consultaemprestimo.designer.cs
+++ConsultaEmprestimo.resx
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\forms\consultaemprestimo.resx
+++ConsultarDevolucao.cs
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\forms\consultardevolucao.cs
+++ConsultarFuncionario.cs
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\forms\consultarfuncionario.cs
+++ConsultarLivros.cs
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\forms\consultarlivros.cs
+++ConsultarReservas.cs
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\forms\consultarreservas.cs
+++ConsultarSelecao.cs
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\forms\consultarselecao.cs
+++ConsultarSelecao.Designer.cs
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\forms\consultarselecao.designer.cs
+++ConsultarSelecao.resx
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\forms\consultarselecao.resx
+++Form1.cs
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\forms\form1.cs
+++Login.cs
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\forms\login.cs
+++Login.Designer.cs
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\forms\login.designer.cs
+++Login.resx
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\forms\login.resx
+++Interfaces
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\interfaces\
+++ILivroService.cs
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\interfaces\ilivroservice.cs
+++Models
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\models\
+++DemoDbContext.cs
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\models\demodbcontext.cs
+++TbCidade.cs
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\models\tbcidade.cs
+++TbDevolucao.cs
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\models\tbdevolucao.cs
+++TbEndereco.cs
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\models\tbendereco.cs
+++TbEstado.cs
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\models\tbestado.cs
+++TbExemplar.cs
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\models\tbexemplar.cs
+++TbExemplarEmprestimo.cs
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\models\tbexemplaremprestimo.cs
+++TbFuncionario.cs
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\models\tbfuncionario.cs
+++TbLeitor.cs
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\models\tbleitor.cs
+++TbLivro.cs
+++TbReserva.cs
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\models\tbreserva.cs
+++Resources
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\resources\
+++CadastrarLivros.png
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\resources\cadastrarlivros.png
+++CadastrarLivros1.png
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\resources\cadastrarlivros1.png
+++CadastrarLivros2.png
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\resources\cadastrarlivros2.png
+++CadastrarLivros3.png
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\resources\cadastrarlivros3.png
+++CadastrarLivros4.png
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\resources\cadastrarlivros4.png
+++CadastrarLivros5.png
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\resources\cadastrarlivros5.png
+++CadastrarLivros6.png
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\resources\cadastrarlivros6.png
+++CadastrarLivros7.png
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\resources\cadastrarlivros7.png
+++checklist.png
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\resources\checklist.png
+++checklist1.png
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\resources\checklist1.png
+++checklist2.png
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\resources\checklist2.png
+++consulta.png
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\resources\consulta.png
+++livro-removebg-preview.png
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\resources\livro-removebg-preview.png
+++Livros.png
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\resources\livros.png
+++Logo.png
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\resources\logo.png
+++Logo1.png
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\resources\logo1.png
+++LogoLogin.png
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\resources\logologin.png
+++Logonombre.png
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\resources\logonombre.png
+++LogoNome.png
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\resources\logonome.png
+++LogoProjetoPOO.png
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\resources\logoprojetopoo.png
+++LogoProjetoPOO1.png
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\resources\logoprojetopoo1.png
+++LogoProjetoPOO2.png
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\resources\logoprojetopoo2.png
+++LogoProjetoPOO3.png
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\resources\logoprojetopoo3.png
+++milho.jpg
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\resources\milho.jpg
+++reserva.png
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\resources\reserva.png
+++usuário.png
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\resources\usuário.png
+++usuário_resized.png
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\resources\usuário_resized.png
+++usuário_resized1.png
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\resources\usuário_resized1.png
+++Services
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\services\
+++CadastroLivroServices.cs
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\services\cadastrolivroservices.cs
+++UserControls
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\usercontrols\
+++UserControlCadastrarExemplar.cs
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\usercontrols\usercontrolcadastrarexemplar.cs
+++UserControlCadastroFunc.cs
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\usercontrols\usercontrolcadastrofunc.cs
+++UserControlCadLivros.cs
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\usercontrols\usercontrolcadlivros.cs
+++UserControlConsultaSelecao.cs
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\usercontrols\usercontrolconsultaselecao.cs
+++UserControlDevolucao.cs
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\usercontrols\usercontroldevolucao.cs
+++UserControlEmprestimo.cs
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\usercontrols\usercontrolemprestimo.cs
+++UserControlReserva.cs
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\usercontrols\usercontrolreserva.cs
+++App.config
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\app.config
+++csproj.config
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\csproj.config
+++Program.cs
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\program.cs
+++Analisadores
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:analisadores
+++Estruturas
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:estruturas
+++Pacotes
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:pacotes
+++Resources.resx
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\properties\resources.resx
+++CadastrarExemplar.Designer.cs
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\forms\cadastrarexemplar.designer.cs
+++CadastrarExemplar.resx
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\forms\cadastrarexemplar.resx
+++CadastroLivros.Designer.cs
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\forms\cadastrolivros.designer.cs
+++CadastroLivros.resx
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\forms\cadastrolivros.resx
+++ConsultarDevolucao.Designer.cs
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\forms\consultardevolucao.designer.cs
+++ConsultarDevolucao.resx
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\forms\consultardevolucao.resx
+++ConsultarFuncionario.Designer.cs
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\forms\consultarfuncionario.designer.cs
+++ConsultarFuncionario.resx
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\forms\consultarfuncionario.resx
+++ConsultarLivros.Designer.cs
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\forms\consultarlivros.designer.cs
+++ConsultarLivros.resx
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\forms\consultarlivros.resx
+++ConsultarReservas.Designer.cs
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\forms\consultarreservas.designer.cs
+++ConsultarReservas.resx
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\forms\consultarreservas.resx
+++Form1.Designer.cs
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\forms\form1.designer.cs
+++Form1.resx
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\forms\form1.resx
+++UserControlCadastrarExemplar.Designer.cs
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\usercontrols\usercontrolcadastrarexemplar.designer.cs
+++UserControlCadastrarExemplar.resx
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\usercontrols\usercontrolcadastrarexemplar.resx
+++UserControlCadastroFunc.Designer.cs
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\usercontrols\usercontrolcadastrofunc.designer.cs
+++UserControlCadastroFunc.resx
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\usercontrols\usercontrolcadastrofunc.resx
+++UserControlCadLivros.Designer.cs
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\usercontrols\usercontrolcadlivros.designer.cs
+++UserControlCadLivros.resx
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\usercontrols\usercontrolcadlivros.resx
+++UserControlConsultaSelecao.Designer.cs
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\usercontrols\usercontrolconsultaselecao.designer.cs
+++UserControlConsultaSelecao.resx
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\usercontrols\usercontrolconsultaselecao.resx
+++UserControlDevolucao.Designer.cs
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\usercontrols\usercontroldevolucao.designer.cs
+++UserControlDevolucao.resx
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\usercontrols\usercontroldevolucao.resx
+++UserControlEmprestimo.Designer.cs
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\usercontrols\usercontrolemprestimo.designer.cs
+++UserControlEmprestimo.resx
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\usercontrols\usercontrolemprestimo.resx
+++UserControlReserva.Designer.cs
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\usercontrols\usercontrolreserva.designer.cs
+++UserControlReserva.resx
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\usercontrols\usercontrolreserva.resx
+++Microsoft.CodeAnalysis.Analyzers
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.3\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.3\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\.nuget\packages\microsoft.entityframeworkcore.analyzers\7.0.4\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\.nuget\packages\microsoft.extensions.logging.abstractions\7.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++System.Text.Json.SourceGeneration
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\.nuget\packages\system.text.json\7.0.0\analyzers\dotnet\roslyn4.0\cs\system.text.json.sourcegeneration.dll
+++System.Windows.Forms.Analyzers
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\program files\dotnet\packs\microsoft.windowsdesktop.app.ref\6.0.4\analyzers\dotnet\system.windows.forms.analyzers.dll
+++System.Windows.Forms.Analyzers.CSharp
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\program files\dotnet\packs\microsoft.windowsdesktop.app.ref\6.0.4\analyzers\dotnet\cs\system.windows.forms.analyzers.csharp.dll
+++Microsoft.NETCore.App
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\microsoft.netcore.app
+++Microsoft.WindowsDesktop.App.WindowsForms
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\microsoft.windowsdesktop.app.windowsforms
+++Microsoft.CodeAnalysis (4.5.0)
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:>724
+++Microsoft.EntityFrameworkCore (7.0.4)
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:>721
+++Microsoft.EntityFrameworkCore.Analyzers (7.0.4)
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:>723
+++Microsoft.EntityFrameworkCore.Design (7.0.4)
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:>722
+++Microsoft.EntityFrameworkCore.Tools (7.0.4)
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:>725
+++MySql.Data (8.0.32.1)
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:>726
+++MySql.Data.EntityFrameworkCore (8.0.22)
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:>720
+++Pomelo.EntityFrameworkCore.MySql (7.0.0)
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:>727
+++Resources.Designer.cs
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\properties\resources.designer.cs
+++tb_livro.cs
+i:{2a43df77-207b-471e-92fc-4082826cedb3}:c:\users\guilherme salgado\desktop\bibliotecon___git\bibliotecon\bibliotecon\bibliotecon\models\tb_livro.cs

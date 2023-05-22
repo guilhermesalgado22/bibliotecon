@@ -1,0 +1,406 @@
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Bibliotecon.exe
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Bibliotecon.deps.json
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Bibliotecon.runtimeconfig.json
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Bibliotecon.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Bibliotecon.pdb
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.csproj.AssemblyReference.cache
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.Properties.Resources.resources
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.csproj.GenerateResource.cache
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.AssemblyInfoInputs.cache
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.AssemblyInfo.cs
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\refint\Bibliotecon.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.pdb
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.genruntimeconfig.cache
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\ref\Bibliotecon.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.Login.resources
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.CadastrarDevolucao.resources
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.CadastrarEmprestimo.resources
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.CadastrarFuncionario.resources
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.CadastrarReserva.resources
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.CadastroLeitor.resources
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.CadastroLivros.resources
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.ConsultaEmprestimo.resources
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.ConsultarDevolucao.resources
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.ConsultarFuncionario.resources
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.ConsultarLivros.resources
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.ConsultarReservas.resources
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.ConsultarSelecao.resources
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.Form1.resources
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.UserControlCadLivros.resources
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.UserControlCadastroFunc.resources
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.UserControlReserva.resources
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.UserControlEmprestimo.resources
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.UserControlDevolucao.resources
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.UserControlConsultaSelecao.resources
+C:\Users\Guilherme Salgado\Desktop\Nova pasta (2)\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Bibliotecon.exe
+C:\Users\Guilherme Salgado\Desktop\Nova pasta (2)\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Bibliotecon.deps.json
+C:\Users\Guilherme Salgado\Desktop\Nova pasta (2)\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Bibliotecon.runtimeconfig.json
+C:\Users\Guilherme Salgado\Desktop\Nova pasta (2)\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Bibliotecon.dll
+C:\Users\Guilherme Salgado\Desktop\Nova pasta (2)\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Bibliotecon.pdb
+C:\Users\Guilherme Salgado\Desktop\Nova pasta (2)\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.csproj.AssemblyReference.cache
+C:\Users\Guilherme Salgado\Desktop\Nova pasta (2)\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.CadastrarDevolucao.resources
+C:\Users\Guilherme Salgado\Desktop\Nova pasta (2)\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.CadastrarEmprestimo.resources
+C:\Users\Guilherme Salgado\Desktop\Nova pasta (2)\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.CadastrarExemplar.resources
+C:\Users\Guilherme Salgado\Desktop\Nova pasta (2)\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.CadastrarFuncionario.resources
+C:\Users\Guilherme Salgado\Desktop\Nova pasta (2)\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.CadastrarReserva.resources
+C:\Users\Guilherme Salgado\Desktop\Nova pasta (2)\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.CadastroLeitor.resources
+C:\Users\Guilherme Salgado\Desktop\Nova pasta (2)\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.CadastroLivros.resources
+C:\Users\Guilherme Salgado\Desktop\Nova pasta (2)\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.ConsultaEmprestimo.resources
+C:\Users\Guilherme Salgado\Desktop\Nova pasta (2)\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.ConsultarDevolucao.resources
+C:\Users\Guilherme Salgado\Desktop\Nova pasta (2)\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.ConsultarFuncionario.resources
+C:\Users\Guilherme Salgado\Desktop\Nova pasta (2)\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.ConsultarLivros.resources
+C:\Users\Guilherme Salgado\Desktop\Nova pasta (2)\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.ConsultarReservas.resources
+C:\Users\Guilherme Salgado\Desktop\Nova pasta (2)\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.ConsultarSelecao.resources
+C:\Users\Guilherme Salgado\Desktop\Nova pasta (2)\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.Form1.resources
+C:\Users\Guilherme Salgado\Desktop\Nova pasta (2)\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.Login.resources
+C:\Users\Guilherme Salgado\Desktop\Nova pasta (2)\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.Properties.Resources.resources
+C:\Users\Guilherme Salgado\Desktop\Nova pasta (2)\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.UserControlCadastrarExemplar.resources
+C:\Users\Guilherme Salgado\Desktop\Nova pasta (2)\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.UserControlCadastroFunc.resources
+C:\Users\Guilherme Salgado\Desktop\Nova pasta (2)\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.UserControlCadLivros.resources
+C:\Users\Guilherme Salgado\Desktop\Nova pasta (2)\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.UserControlConsultaSelecao.resources
+C:\Users\Guilherme Salgado\Desktop\Nova pasta (2)\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.UserControlDevolucao.resources
+C:\Users\Guilherme Salgado\Desktop\Nova pasta (2)\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.UserControlEmprestimo.resources
+C:\Users\Guilherme Salgado\Desktop\Nova pasta (2)\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.UserControlReserva.resources
+C:\Users\Guilherme Salgado\Desktop\Nova pasta (2)\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.csproj.GenerateResource.cache
+C:\Users\Guilherme Salgado\Desktop\Nova pasta (2)\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme Salgado\Desktop\Nova pasta (2)\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.AssemblyInfoInputs.cache
+C:\Users\Guilherme Salgado\Desktop\Nova pasta (2)\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.AssemblyInfo.cs
+C:\Users\Guilherme Salgado\Desktop\Nova pasta (2)\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme Salgado\Desktop\Nova pasta (2)\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.dll
+C:\Users\Guilherme Salgado\Desktop\Nova pasta (2)\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\refint\Bibliotecon.dll
+C:\Users\Guilherme Salgado\Desktop\Nova pasta (2)\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.pdb
+C:\Users\Guilherme Salgado\Desktop\Nova pasta (2)\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.genruntimeconfig.cache
+C:\Users\Guilherme Salgado\Desktop\Nova pasta (2)\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\ref\Bibliotecon.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.csproj.AssemblyReference.cache
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.CadastrarDevolucao.resources
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.CadastrarEmprestimo.resources
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.CadastrarExemplar.resources
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.CadastrarFuncionario.resources
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.CadastrarReserva.resources
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.CadastroLivros.resources
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.ConsultaEmprestimo.resources
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.ConsultarDevolucao.resources
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.ConsultarFuncionario.resources
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.ConsultarLivros.resources
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.ConsultarReservas.resources
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.ConsultarSelecao.resources
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.Form1.resources
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.Login.resources
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.Properties.Resources.resources
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.UserControlCadastroFunc.resources
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.UserControlCadLivros.resources
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.UserControlConsultaSelecao.resources
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.UserControlDevolucao.resources
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.UserControlEmprestimo.resources
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.UserControlReserva.resources
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.csproj.GenerateResource.cache
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.AssemblyInfoInputs.cache
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.AssemblyInfo.cs
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\refint\Bibliotecon.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.pdb
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Bibliotecon.exe
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Bibliotecon.deps.json
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Bibliotecon.runtimeconfig.json
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Bibliotecon.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Bibliotecon.pdb
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.csproj.CopyComplete
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.genruntimeconfig.cache
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\ref\Bibliotecon.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Bibliotecon.dll.config
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\System.Composition.AttributedModel.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\System.Composition.Convention.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\System.Composition.Hosting.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\System.Composition.Runtime.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\System.Composition.TypedParts.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\System.Reflection.Metadata.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\MySql.Data.EntityFrameworkCore.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\MySqlConnector.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Guilherme Salgado\Desktop\Bibliotecon___GIT\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.UserControlCadastroExemplar.resources
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Bibliotecon.exe
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Bibliotecon.dll.config
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Bibliotecon.deps.json
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Bibliotecon.runtimeconfig.json
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Bibliotecon.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Bibliotecon.pdb
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\MySql.Data.EntityFrameworkCore.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\MySqlConnector.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\System.Composition.AttributedModel.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\System.Composition.Convention.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\System.Composition.Hosting.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\System.Composition.Runtime.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\System.Composition.TypedParts.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\System.Reflection.Metadata.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.csproj.AssemblyReference.cache
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.CadastrarDevolucao.resources
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.CadastrarEmprestimo.resources
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.CadastrarExemplar.resources
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.CadastrarFuncionario.resources
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.CadastrarReserva.resources
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.CadastroLivros.resources
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.ConsultaEmprestimo.resources
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.ConsultarDevolucao.resources
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.ConsultarFuncionario.resources
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.ConsultarLivros.resources
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.ConsultarReservas.resources
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.ConsultarSelecao.resources
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.Form1.resources
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.Login.resources
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.Properties.Resources.resources
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.UserControlCadastroExemplar.resources
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.UserControlCadastroFunc.resources
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.UserControlCadLivros.resources
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.UserControlConsultaSelecao.resources
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.UserControlDevolucao.resources
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.UserControlEmprestimo.resources
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.UserControlReserva.resources
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.csproj.GenerateResource.cache
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.AssemblyInfoInputs.cache
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.AssemblyInfo.cs
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.csproj.CopyComplete
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\refint\Bibliotecon.dll
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.pdb
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.genruntimeconfig.cache
+C:\Users\Guilherme Salgado\Desktop\BACKUP\bibliotecon\Bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\ref\Bibliotecon.dll
