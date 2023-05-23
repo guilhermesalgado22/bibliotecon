@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-
+//teste
 namespace Bibliotecon.Models;
 
 public partial class ExemplarEmprestimo
