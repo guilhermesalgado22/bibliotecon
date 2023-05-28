@@ -36,10 +36,10 @@ namespace Bibliotecon
         private void UserControlReserva_Load(object sender, EventArgs e)
         {
             //InitializeComponent();
-            PopularComboBoxLivros();
-            CarregarFuncionarios();
-            CarregarLeitores();
-            CarregarExemplar();
+            //PopularComboBoxLivros();
+           // CarregarFuncionarios();
+          //  CarregarLeitores();
+           // CarregarExemplar();
           
 
         }

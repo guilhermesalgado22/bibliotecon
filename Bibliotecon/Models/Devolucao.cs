@@ -9,7 +9,7 @@ public partial class Devolucao
 
     public int CodExemplar { get; set; }
 
-    public int CodFuncionario { get; set; }
+    public int CodFuncionario { get; set; } 
 
     public int CodEmprestimo { get; set; }
 

@@ -82,7 +82,7 @@ public partial class DemoDbContext : DbContext
 
             entity.HasIndex(e => e.CodExemplar, "cod_exemplar");
 
-            entity.HasIndex(e => e.CodFuncionario, "cod_funcionario");
+           entity.HasIndex(e => e.CodFuncionario, "cod_funcionario");
 
             entity.Property(e => e.CodDevolucao).HasColumnName("cod_devolucao");
             entity.Property(e => e.CodEmprestimo).HasColumnName("cod_emprestimo");
@@ -104,7 +104,7 @@ public partial class DemoDbContext : DbContext
 
             entity.HasOne(d => d.CodFuncionarioNavigation).WithMany(p => p.TbDevolucaos)
                 .HasForeignKey(d => d.CodFuncionario)
-                .OnDelete(DeleteBehavior.ClientSetNull)
+               .OnDelete(DeleteBehavior.ClientSetNull)
                 .HasConstraintName("tb_devolucao_ibfk_1");
         });
 

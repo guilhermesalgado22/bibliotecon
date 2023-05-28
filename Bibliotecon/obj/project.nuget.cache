@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wKxrsMCOiSp3nmNQRRZX9kfu0e41+OPVgttXROs0p7+USMzcW12hYIGoFFwUNlhU5HYxEcrs4MclswyCNVY8vA==",
+  "dgSpecHash": "UwJZHqsNg4x/ekkVblGPcqGtd5kNLqU45eRG4EWDQ8qPLqycnGfLjsxWqmbuRwEDMsSFMekEWQ0/wcIciIy5+A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Guilherme Salgado\\Desktop\\BACKUP\\bibliotecon\\Bibliotecon\\Bibliotecon\\Bibliotecon.csproj",
+  "projectFilePath": "C:\\Users\\Guilherme Salgado\\Desktop\\Nova pasta (3)\\bibliotecon\\Bibliotecon\\Bibliotecon.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Guilherme Salgado\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",
     "C:\\Users\\Guilherme Salgado\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
