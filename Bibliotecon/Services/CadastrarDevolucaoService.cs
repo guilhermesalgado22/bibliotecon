@@ -1,6 +1,7 @@
 ﻿using Bibliotecon.Dto;
 using Bibliotecon.Interfaces;
 using Bibliotecon.Models;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -82,6 +83,28 @@ namespace Bibliotecon.Services
             }
 
             return dias;
+        }
+
+        List<Devolucao> ICadastrarDevolucao.PesquisarDevolucao(int codigoDevolucao)
+        {
+            using (var contexto = new DemoDbContext())
+            {
+                return contexto.TbDevolucaos
+                    .Include(e => e.CodExemplarNavigation)
+                    .Include(e => e.CodEmprestimoNavigation)
+                    .Where(d => d.CodDevolucao == codigoDevolucao)
+                    .Select(d => new Devolucao
+                    {
+                        CodDevolucao = d.CodDevolucao,
+                        CodExemplar = d.CodExemplar,
+                        CodEmprestimo = d.CodEmprestimo,
+                        DataDevolucao = d.DataDevolucao,
+                        Multa = d.Multa,
+                        Status = d.Status
+         
+                })
+                    .ToList();
+            }
         }
     }
 

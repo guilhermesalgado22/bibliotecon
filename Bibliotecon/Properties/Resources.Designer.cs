@@ -183,6 +183,16 @@ namespace Bibliotecon.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap iconeexcluir {
+            get {
+                object obj = ResourceManager.GetObject("iconeexcluir", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap livro_removebg_preview {
             get {
                 object obj = ResourceManager.GetObject("livro-removebg-preview", resourceCulture);

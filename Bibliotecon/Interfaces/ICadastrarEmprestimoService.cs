@@ -12,5 +12,6 @@ namespace Bibliotecon.Interfaces
     {
         Task<CadastrarEmprestimoResponse> CadastrarEmprestimoAsync(CadastrarEmprestimoRequest request);
         List<ExemplarEmprestimo> PesquisarEmprestimos(int codigoEmprestimo);
+        //void ExcluirEmprestimo(int codigoEmprestimo);
     }
 }

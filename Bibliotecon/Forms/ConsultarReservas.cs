@@ -16,5 +16,10 @@ namespace Bibliotecon
         {
             InitializeComponent();
         }
+
+        private void ConsultarReservas_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

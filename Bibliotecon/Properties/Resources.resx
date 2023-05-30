@@ -130,6 +130,9 @@
   <data name="CadastrarLivros5" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\CadastrarLivros5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="LogoLogin" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\LogoLogin.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="LogoProjetoPOO1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\LogoProjetoPOO1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -166,14 +169,14 @@
   <data name="reserva" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\reserva.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Logonombre" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Logonombre.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="checklist2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\checklist2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="CadastrarLivros7" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\CadastrarLivros7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Logonombre" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Logonombre.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="milho" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\milho.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -199,7 +202,7 @@
   <data name="usuário_resized1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\usuário_resized1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="LogoLogin" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\LogoLogin.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="iconeexcluir" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\iconeexcluir.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

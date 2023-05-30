@@ -33,7 +33,11 @@
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.button1 = new System.Windows.Forms.Button();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.demoDbContextBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.exemplarEmprestimoBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.textBox1 = new System.Windows.Forms.TextBox();
             this.tbCidadesDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Excluir = new System.Windows.Forms.DataGridViewImageColumn();
             this.tbReservaDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.tbDevolucaosDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.tbEnderecosDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -48,9 +52,6 @@
             this.changeTrackerDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.modelDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.contextIdDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.demoDbContextBindingSource = new System.Windows.Forms.BindingSource(this.components);
-            this.exemplarEmprestimoBindingSource = new System.Windows.Forms.BindingSource(this.components);
-            this.textBox1 = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.demoDbContextBindingSource)).BeginInit();
@@ -97,6 +98,7 @@
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView1.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.tbCidadesDataGridViewTextBoxColumn,
+            this.Excluir,
             this.tbReservaDataGridViewTextBoxColumn,
             this.tbDevolucaosDataGridViewTextBoxColumn,
             this.tbEnderecosDataGridViewTextBoxColumn,
@@ -119,11 +121,34 @@
             this.dataGridView1.TabIndex = 23;
             this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
             // 
+            // demoDbContextBindingSource
+            // 
+            this.demoDbContextBindingSource.DataSource = typeof(Bibliotecon.Models.DemoDbContext);
+            // 
+            // exemplarEmprestimoBindingSource
+            // 
+            this.exemplarEmprestimoBindingSource.DataSource = typeof(Bibliotecon.Models.ExemplarEmprestimo);
+            // 
+            // textBox1
+            // 
+            this.textBox1.Font = new System.Drawing.Font("Segoe UI", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.textBox1.Location = new System.Drawing.Point(587, 70);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(190, 36);
+            this.textBox1.TabIndex = 26;
+            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
+            // 
             // tbCidadesDataGridViewTextBoxColumn
             // 
             this.tbCidadesDataGridViewTextBoxColumn.DataPropertyName = "TbCidades";
             this.tbCidadesDataGridViewTextBoxColumn.HeaderText = "TbCidades";
             this.tbCidadesDataGridViewTextBoxColumn.Name = "tbCidadesDataGridViewTextBoxColumn";
+            // 
+            // Excluir
+            // 
+            this.Excluir.HeaderText = "";
+            this.Excluir.Image = global::Bibliotecon.Properties.Resources.iconeexcluir;
+            this.Excluir.Name = "Excluir";
             // 
             // tbReservaDataGridViewTextBoxColumn
             // 
@@ -213,23 +238,6 @@
             this.contextIdDataGridViewTextBoxColumn.Name = "contextIdDataGridViewTextBoxColumn";
             this.contextIdDataGridViewTextBoxColumn.ReadOnly = true;
             // 
-            // demoDbContextBindingSource
-            // 
-            this.demoDbContextBindingSource.DataSource = typeof(Bibliotecon.Models.DemoDbContext);
-            // 
-            // exemplarEmprestimoBindingSource
-            // 
-            this.exemplarEmprestimoBindingSource.DataSource = typeof(Bibliotecon.Models.ExemplarEmprestimo);
-            // 
-            // textBox1
-            // 
-            this.textBox1.Font = new System.Drawing.Font("Segoe UI", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.textBox1.Location = new System.Drawing.Point(587, 70);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(190, 36);
-            this.textBox1.TabIndex = 26;
-            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
-            // 
             // ConsultaEmprestimo
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
@@ -264,6 +272,7 @@
         private TextBox textBox1;
         private BindingSource demoDbContextBindingSource;
         private DataGridViewTextBoxColumn tbCidadesDataGridViewTextBoxColumn;
+        private DataGridViewImageColumn Excluir;
         private DataGridViewTextBoxColumn tbReservaDataGridViewTextBoxColumn;
         private DataGridViewTextBoxColumn tbDevolucaosDataGridViewTextBoxColumn;
         private DataGridViewTextBoxColumn tbEnderecosDataGridViewTextBoxColumn;
