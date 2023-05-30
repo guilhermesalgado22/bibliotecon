@@ -100,5 +100,32 @@ namespace Bibliotecon.Services
                 }
             }
         }
+
+
+        public List<ExemplarEmprestimo> PesquisarEmprestimos(int codigoEmprestimo)
+        {
+            using (var contexto = new DemoDbContext())
+            {
+                return contexto.TbExemplarEmprestimos
+                    .Include(e => e.CodExemplarNavigation)
+                    .Include(e => e.CodLeitorNavigation)
+                    .Where(e => e.CodEmprestimo == codigoEmprestimo)
+                    .Select(e => new ExemplarEmprestimo
+                   {
+                        CodEmprestimo = e.CodEmprestimo,
+                        CodLeitor = e.CodLeitor,
+                        CodExemplar = e.CodExemplar,
+                        CodFuncionario = e.CodFuncionario,
+                        DataEmprestimo = e.DataEmprestimo,
+                        DataDevolucao = e.DataDevolucao,
+                        CodReserva = e.CodReserva
+                        // Mapeie outras propriedades desejadas
+                    })
+            .ToList();
+            }
+        }
+
     }
-}
+    }
+
+    

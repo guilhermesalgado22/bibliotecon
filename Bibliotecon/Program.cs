@@ -18,10 +18,13 @@ namespace Bibliotecon
             ApplicationConfiguration.Initialize();
 
             var serviceProvider = new ServiceCollection()
-                .AddTransient<ILivroService, LivroService>()
-                .AddTransient<IExemplarService, ExemplarService>()
+                .AddSingleton<ILivroService, LivroService>()
+                .AddSingleton<IExemplarService, ExemplarService>()
+                .AddSingleton<ICadastrarEmprestimo, CadastrarEmprestimoService>()
                 .AddDbContext<DemoDbContext>()
                 .BuildServiceProvider();
+
+            
 
             Application.Run(new Form1(serviceProvider));
         }

@@ -36,7 +36,7 @@ namespace Bibliotecon.Services
             // Atualizar o status do exemplar para disponível
             exemplar.Status = true;
             // Calcular a diferença de dias entre as datas de devolução
-            int diasAtraso = CalcularDiferencaDias((DateOnly)request.DataDevolucao, (DateOnly)emprestimo.DataDevolucao);
+            int diasAtraso = CalcularDiferencaDias((DateOnly)emprestimo.DataDevolucao, (DateOnly)request.DataDevolucao);
 
             // Calcular o valor da multa (1 real por dia de atraso)
             decimal multa = diasAtraso * 1;

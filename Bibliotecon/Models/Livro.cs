@@ -20,4 +20,5 @@ public partial class Livro
     public bool Status { get; set; }
 
     public virtual ICollection<Exemplar> TbExemplars { get; } = new List<Exemplar>();
+   
 }

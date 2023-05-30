@@ -36,56 +36,16 @@ namespace Bibliotecon
         private void UserControlDevolucao_Load(object sender, EventArgs e)
         {
             InitializeComponent();
-            PopularComboBoxLivros3();
+         
             CarregarFuncionarios3();
-            CarregarExemplar3();
-            CarregarLeitores3();
+           
+            
         }
 
-        private void PopularComboBoxLivros3()
-        {
-            //InitializeComponent();
+      
+     
 
-            using (var context = new DemoDbContext())
-            {
-                var livross = context.TbLivro.OrderBy(l => l.Titulo).ToList();
-
-                comboBox1.DataSource = livross;
-                comboBox1.DisplayMember = "Titulo";
-                comboBox1.ValueMember = "CodLivro";
-
-            }
-        }
-        private void CarregarLeitores3()
-        {
-            using (var context = new DemoDbContext())
-            {
-                var leitores = context.TbLeitors.OrderBy(l => l.Nome).ToList();
-                comboBox3.DataSource = leitores;
-                comboBox3.DisplayMember = "Nome";
-                comboBox3.ValueMember = "CodLeitor";
-            }
-        }
-
-        private void CarregarExemplar3()
-        {
-            using (var context = new DemoDbContext())
-            {
-                var codLivro = int.Parse(comboBox1.SelectedValue.ToString());
-
-                var exemplares = context.TbExemplars
-                    .Where(e => e.CodLivro == codLivro)
-                    .OrderBy(e => e.CodExemplar)
-                    .ToList();
-
-                comboBox2.DataSource = exemplares;
-                comboBox2.DisplayMember = "CodExemplar";
-                comboBox2.ValueMember = "CodExemplar";
-                comboBox1.SelectedIndexChanged += new EventHandler(comboBox1_SelectedIndexChanged);
-
-            }
-
-        }
+       
         private void CarregarFuncionarios3()
         {
             //InitializeComponent();
@@ -100,13 +60,6 @@ namespace Bibliotecon
             }
         }
 
-        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
-        {
-            if (comboBox1.SelectedValue.GetType() != typeof(Livro))
-            {
-                CarregarExemplar3();
-            }
-        }
 
         private void comboBox2_SelectedIndexChanged(object sender, EventArgs e)
         {
@@ -187,8 +140,6 @@ namespace Bibliotecon
 
             if (emprestimo != null)
             {
-                comboBox2.SelectedValue = emprestimo.CodExemplar;
-                comboBox3.SelectedValue = emprestimo.CodLeitor;
              
                // comboBox4.SelectedValue = emprestimo.CodFuncionario;
 

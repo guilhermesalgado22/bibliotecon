@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Guilherme Salgado\\Desktop\\Nova pasta (3)\\bibliotecon\\Bibliotecon\\Bibliotecon.csproj": {}
+    "C:\\Users\\Guilherme Salgado\\Desktop\\ATUAL NAO CONFUNDIR\\bibliotecon\\Bibliotecon\\Bibliotecon.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Guilherme Salgado\\Desktop\\Nova pasta (3)\\bibliotecon\\Bibliotecon\\Bibliotecon.csproj": {
+    "C:\\Users\\Guilherme Salgado\\Desktop\\ATUAL NAO CONFUNDIR\\bibliotecon\\Bibliotecon\\Bibliotecon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Guilherme Salgado\\Desktop\\Nova pasta (3)\\bibliotecon\\Bibliotecon\\Bibliotecon.csproj",
+        "projectUniqueName": "C:\\Users\\Guilherme Salgado\\Desktop\\ATUAL NAO CONFUNDIR\\bibliotecon\\Bibliotecon\\Bibliotecon.csproj",
         "projectName": "Bibliotecon",
-        "projectPath": "C:\\Users\\Guilherme Salgado\\Desktop\\Nova pasta (3)\\bibliotecon\\Bibliotecon\\Bibliotecon.csproj",
+        "projectPath": "C:\\Users\\Guilherme Salgado\\Desktop\\ATUAL NAO CONFUNDIR\\bibliotecon\\Bibliotecon\\Bibliotecon.csproj",
         "packagesPath": "C:\\Users\\Guilherme Salgado\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Guilherme Salgado\\Desktop\\Nova pasta (3)\\bibliotecon\\Bibliotecon\\obj\\",
+        "outputPath": "C:\\Users\\Guilherme Salgado\\Desktop\\ATUAL NAO CONFUNDIR\\bibliotecon\\Bibliotecon\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
