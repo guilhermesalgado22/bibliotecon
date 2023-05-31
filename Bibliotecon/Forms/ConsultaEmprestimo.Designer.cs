@@ -37,7 +37,6 @@
             this.exemplarEmprestimoBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.tbCidadesDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Excluir = new System.Windows.Forms.DataGridViewImageColumn();
             this.tbReservaDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.tbDevolucaosDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.tbEnderecosDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -95,10 +94,10 @@
             // 
             this.dataGridView1.AllowUserToAddRows = false;
             this.dataGridView1.AutoGenerateColumns = false;
+            this.dataGridView1.BackgroundColor = System.Drawing.SystemColors.MenuHighlight;
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView1.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.tbCidadesDataGridViewTextBoxColumn,
-            this.Excluir,
             this.tbReservaDataGridViewTextBoxColumn,
             this.tbDevolucaosDataGridViewTextBoxColumn,
             this.tbEnderecosDataGridViewTextBoxColumn,
@@ -114,6 +113,7 @@
             this.modelDataGridViewTextBoxColumn,
             this.contextIdDataGridViewTextBoxColumn});
             this.dataGridView1.DataSource = this.demoDbContextBindingSource;
+            this.dataGridView1.GridColor = System.Drawing.SystemColors.MenuHighlight;
             this.dataGridView1.Location = new System.Drawing.Point(110, 116);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowTemplate.Height = 25;
@@ -143,12 +143,6 @@
             this.tbCidadesDataGridViewTextBoxColumn.DataPropertyName = "TbCidades";
             this.tbCidadesDataGridViewTextBoxColumn.HeaderText = "TbCidades";
             this.tbCidadesDataGridViewTextBoxColumn.Name = "tbCidadesDataGridViewTextBoxColumn";
-            // 
-            // Excluir
-            // 
-            this.Excluir.HeaderText = "";
-            this.Excluir.Image = global::Bibliotecon.Properties.Resources.iconeexcluir;
-            this.Excluir.Name = "Excluir";
             // 
             // tbReservaDataGridViewTextBoxColumn
             // 
@@ -272,7 +266,6 @@
         private TextBox textBox1;
         private BindingSource demoDbContextBindingSource;
         private DataGridViewTextBoxColumn tbCidadesDataGridViewTextBoxColumn;
-        private DataGridViewImageColumn Excluir;
         private DataGridViewTextBoxColumn tbReservaDataGridViewTextBoxColumn;
         private DataGridViewTextBoxColumn tbDevolucaosDataGridViewTextBoxColumn;
         private DataGridViewTextBoxColumn tbEnderecosDataGridViewTextBoxColumn;

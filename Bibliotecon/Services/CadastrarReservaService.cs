@@ -73,7 +73,7 @@ namespace Bibliotecon.Services
             {
                 using (var context = new DemoDbContext())
                 {
-                    var exemplar = await context.TbExemplars.FirstOrDefaultAsync(e => e.CodLivro ==codLivro  && e.CodExemplar == codExemplar);
+                    var exemplar = await context.TbExemplars.FirstOrDefaultAsync(e => e.CodLivro == codLivro && e.CodExemplar == codExemplar);
 
                     if (exemplar == null)
                     {
@@ -91,12 +91,28 @@ namespace Bibliotecon.Services
             }
         }
 
+        List<Reserva> ICadastrarReservaService.PesquisarReserva(int codigoReserva)
+        {
+            using (var contexto = new DemoDbContext())
+            {
+                return contexto.TbReserva
+                    .Include(e => e.CodExemplarNavigation)
+                    .Include(e => e.CodLeitorNavigation)
+                    .Include(e => e.CodFuncionarioNavigation)
+                    .OrderBy(e => codigoReserva)
+                    .Where(e => e.CodReserva == codigoReserva)
+                    .Select(e => new Reserva
+                    {
+                        CodReserva = e.CodReserva,
+                        CodLeitor = e.CodLeitor,
+                        CodExemplar = e.CodExemplar,
+                        CodFuncionario = e.CodFuncionario,
+                        DataReserva = e.DataReserva,
+                        DataDevolucao = e.DataDevolucao,
 
-
-
-
-
-
-
+                    })
+            .ToList();
+            }
+        }
     }
 }

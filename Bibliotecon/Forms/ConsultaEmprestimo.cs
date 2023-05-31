@@ -45,47 +45,11 @@ namespace Bibliotecon
             dataGridView1.AutoGenerateColumns = true;
             //CarregarTodosEmprestimos();
         }
-        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-            if (dataGridView1.Columns[e.ColumnIndex].Name == "Excluir" && e.RowIndex != -1)
-            {
-                // Confirmar a exclusão com o usuário
-                DialogResult result = MessageBox.Show("Tem certeza de que deseja excluir este empréstimo?", "Confirmação", MessageBoxButtons.YesNo);
-
-                if (result == DialogResult.Yes)
-                {
-                    // Obter o código do empréstimo a ser excluído
-                    int codigoEmprestimo = (int)dataGridView1.Rows[e.RowIndex].Cells["Codigo"].Value;
-
-                    // Excluir o empréstimo do banco de dados
-                    using (var contexto = new DemoDbContext())
-                    {
-                        try
-                        {
-                            var emprestimo = contexto.TbExemplarEmprestimos.FirstOrDefault(e => e.CodEmprestimo == codigoEmprestimo);
-
-                            if (emprestimo != null)
-                            {
-                                // Remove o empréstimo
-                                contexto.TbExemplarEmprestimos.Remove(emprestimo);
-                                contexto.SaveChanges();
-                            }
-                        }
-                        catch (Exception ex)
-                        {
-                            MessageBox.Show($"Erro ao excluir empréstimo: {ex.Message}");
-                        }
-                    }
-
-                    // Atualizar o DataGridView
-                    LoadData();
-                }
-            }
 
 
 
 
-        }
+
 
         private void dataGridView1_CellContentLoad(object sender, DataGridViewCellEventArgs e)
         {
@@ -143,7 +107,7 @@ namespace Bibliotecon
 
                 // Configure o DataSource
                 dataGridView1.DataSource = emprestimoss;
-                dataGridView1.CellContentClick += dataGridView1_CellContentClick;
+               
 
             }
         }
@@ -155,8 +119,10 @@ namespace Bibliotecon
 
         }
 
-    
-      
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }
 

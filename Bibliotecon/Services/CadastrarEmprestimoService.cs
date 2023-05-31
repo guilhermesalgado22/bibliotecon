@@ -109,6 +109,7 @@ namespace Bibliotecon.Services
                 return contexto.TbExemplarEmprestimos
                     .Include(e => e.CodExemplarNavigation)
                     .Include(e => e.CodLeitorNavigation)
+                    .OrderBy(e => codigoEmprestimo)
                     .Where(e => e.CodEmprestimo == codigoEmprestimo)
                     .Select(e => new ExemplarEmprestimo
                    {

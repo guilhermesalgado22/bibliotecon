@@ -11,6 +11,7 @@ namespace Bibliotecon.Interfaces
     public interface IExemplarService
     {
         Task<CadastrarExemplarResponse> InserirExemplarAsync(CadastrarExemplarRequest request);
+        List<Exemplar> PesquisarExemplar(int codigoExemplar);
 
     }
 

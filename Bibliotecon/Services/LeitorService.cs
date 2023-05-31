@@ -61,47 +61,26 @@ namespace Bibliotecon.Services
                 throw ex;
             }
         }
+
+        List<Leitor> ILeitorService.PesquisarLeitor(int codigoLeitor)
+        {
+            using (var contexto = new DemoDbContext())
+            {
+                return contexto.TbLeitors
+                    .OrderBy(e => codigoLeitor)
+                    .Where(e => e.CodLeitor == codigoLeitor)
+                    .Select(e => new Leitor
+                    {
+                        CodLeitor = e.CodLeitor,
+                        Nome = e.Nome,
+                        Telefone = e.Nome,
+                        Sexo = e.Sexo,
+                        DataNascimento = e.DataNascimento,
+                        Cpf = e.Cpf,
+                        Rg = e.Rg
+                    })
+            .ToList();
+            }
+        }
     }
 }
-//        public async Task<CadastrarLeitorResponse> InserirLeitorAsync(CadastrarLeitorRequest leitor)
-//        {
-//            using var transaction = await _dbContext.Database.BeginTransactionAsync();
-
-//            try
-//            {
-//                var endereco = new Endereco { DescEndereco = leitor.Endereco, Bairro = leitor.CodCidade = leitor.CodCidade };
-//                _dbContext.TbEnderecos.Add(endereco);
-
-//                v
-//                //var bairro = new Endereco { Bairro = leitor.Endereco };
-//                //_dbContext.TbEnderecos.Add(bairro);
-
-//                var cidade = new Cidade { Nome = leitor.Cidade };
-//                _dbContext.TbCidades.Add(cidade);
-
-//                var novoLeitor = new Leitor
-//                {
-//                    Nome = leitor.Nome,
-//                    Telefone = leitor.Telefone,
-//                    Sexo = leitor.Sexo,
-//                    DataNascimento = leitor.DataNascimento,
-//                    Cpf = leitor.CPF,
-//                    Rg = leitor.RG,
-//                    Status = leitor.Status,
-
-//                };
-//                _dbContext.TbLeitors.Add(novoLeitor);
-
-//                await _dbContext.SaveChangesAsync();
-//                await transaction.CommitAsync();
-
-//                return new CadastrarLeitorResponse { CodLeitor = novoLeitor.CodLeitor };
-//            }
-//            catch (Exception ex)
-//            {
-//                await transaction.RollbackAsync();
-//                throw ex;
-//            }
-//        }
-//    }
-//}

@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Bibliotecon.Models;
 using Bibliotecon.Dto;
+using Microsoft.EntityFrameworkCore;
 
 namespace Bibliotecon.Services
 {
@@ -45,6 +46,28 @@ namespace Bibliotecon.Services
             };
 
             return response;
+        }
+
+        List<Livro> ILivroService.PesquisarLivros(int codlivros)
+        {
+            using (var contexto = new DemoDbContext())
+            {
+                return contexto.TbLivro
+                    .Where(e => e.CodLivro == codlivros)
+                    .OrderBy(e => codlivros)
+                    .Select(e => new Livro
+                    {
+                        CodLivro = e.CodLivro,
+                        Titulo = e.Titulo,
+                        Autor = e.Autor,
+                        Editora = e.Editora,
+                        AnoPublicacao = e.AnoPublicacao,
+                        Categoria = e.Categoria,
+                        
+                        
+                    })
+            .ToList();
+            }
         }
     }
 }

@@ -1,6 +1,6 @@
 ﻿namespace Bibliotecon
 {
-    partial class ConsultarFuncionario
+    partial class ConsultarLeitor
     {
         /// <summary>
         /// Required designer variable.
@@ -53,9 +53,9 @@
             this.label1.Font = new System.Drawing.Font("Segoe UI", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.label1.Location = new System.Drawing.Point(195, 18);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(276, 37);
+            this.label1.Size = new System.Drawing.Size(205, 37);
             this.label1.TabIndex = 38;
-            this.label1.Text = "Consultar Funcionário";
+            this.label1.Text = "Consultar Leitor";
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // button2
@@ -67,6 +67,7 @@
             this.button2.TabIndex = 45;
             this.button2.Text = "Consultar";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // textBox1
             // 
@@ -79,14 +80,17 @@
             // dataGridView1
             // 
             this.dataGridView1.AllowUserToAddRows = false;
+            this.dataGridView1.BackgroundColor = System.Drawing.SystemColors.MenuHighlight;
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView1.GridColor = System.Drawing.SystemColors.MenuHighlight;
             this.dataGridView1.Location = new System.Drawing.Point(97, 152);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowTemplate.Height = 25;
             this.dataGridView1.Size = new System.Drawing.Size(764, 210);
             this.dataGridView1.TabIndex = 47;
+            this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
             // 
-            // ConsultarFuncionario
+            // ConsultarLeitor
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -97,7 +101,7 @@
             this.Controls.Add(this.button2);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.label1);
-            this.Name = "ConsultarFuncionario";
+            this.Name = "ConsultarLeitor";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "ConsultarFuncionario";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();

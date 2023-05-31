@@ -1,6 +1,7 @@
 ﻿using Bibliotecon.Dto;
 using Bibliotecon.Interfaces;
 using Bibliotecon.Models;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -17,7 +18,6 @@ namespace Bibliotecon.Services
         {
             _context = context;
         }
-
         public async Task<CadastrarExemplarResponse> InserirExemplarAsync(CadastrarExemplarRequest request)
         {
             var novoExemplar = new Exemplar
@@ -40,6 +40,24 @@ namespace Bibliotecon.Services
             };
 
             return response;
+        }
+
+        List<Exemplar> IExemplarService.PesquisarExemplar(int codigoExemplar)
+        {
+            using (var contexto = new DemoDbContext())
+            {
+                return contexto.TbExemplars
+                    .Include(e => e.CodLivroNavigation)
+                    .OrderBy(e => codigoExemplar)
+                    .Where(e => e.CodExemplar == codigoExemplar)
+                    .Select(e => new Exemplar
+                    {
+                        CodExemplar = e.CodExemplar,
+                        CodLivro = e.CodLivro,
+                        CodFuncionario = e.CodFuncionario,
+                    })
+            .ToList();
+            }
         }
     }
 }

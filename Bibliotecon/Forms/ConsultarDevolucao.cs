@@ -63,6 +63,7 @@ namespace Bibliotecon
                         Multa = d.Multa,
                         CodFuncionario = d.CodFuncionario,
                         
+                        
 
                     })
                     .ToList();
@@ -71,6 +72,21 @@ namespace Bibliotecon
                 // Configure o DataSource
                 dataGridView1.DataSource = devolucao;
                 dataGridView1.CellContentClick += dataGridView1_CellContentClick;
+
+            }
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if (int.TryParse(textBox1.Text, out int codigoDevolucao))
+            {
+                List<Devolucao> devolucao = _cadastroDevolucao.PesquisarDevolucao(codigoDevolucao);
+
+                dataGridView1.AutoGenerateColumns = true;
+
+
+                // Configure o DataSource
+                dataGridView1.DataSource = devolucao;
 
             }
         }

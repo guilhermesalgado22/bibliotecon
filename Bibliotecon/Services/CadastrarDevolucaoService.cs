@@ -92,6 +92,7 @@ namespace Bibliotecon.Services
                 return contexto.TbDevolucaos
                     .Include(e => e.CodExemplarNavigation)
                     .Include(e => e.CodEmprestimoNavigation)
+                    .OrderBy(e => codigoDevolucao)
                     .Where(d => d.CodDevolucao == codigoDevolucao)
                     .Select(d => new Devolucao
                     {
@@ -100,9 +101,10 @@ namespace Bibliotecon.Services
                         CodEmprestimo = d.CodEmprestimo,
                         DataDevolucao = d.DataDevolucao,
                         Multa = d.Multa,
-                        Status = d.Status
-         
-                })
+                       //Status = d.Status,
+
+                    })
+                    
                     .ToList();
             }
         }

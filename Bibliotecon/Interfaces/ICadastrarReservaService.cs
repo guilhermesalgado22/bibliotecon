@@ -1,4 +1,5 @@
 ﻿using Bibliotecon.Dto;
+using Bibliotecon.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,5 +12,7 @@ namespace Bibliotecon.Interfaces
     {
         Task<CadastrarReservaResponse> CadastrarReservaAsync(CadastrarReservaRequest request);
         Task<bool> VerificarExemplarDisponivelAsync(int codLivro, int codExemplar);
+
+        List<Reserva> PesquisarReserva(int codigoReserva);
     }
 }

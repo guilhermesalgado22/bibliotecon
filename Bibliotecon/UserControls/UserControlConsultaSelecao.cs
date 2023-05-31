@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Bibliotecon.Forms;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -42,7 +43,7 @@ namespace Bibliotecon
 
         private void Consultar_Funcionario_Click(object sender, EventArgs e)
         {
-            ConsultarFuncionario consultarFuncionario = new ConsultarFuncionario();
+            ConsultarLeitor consultarFuncionario = new ConsultarLeitor();
             consultarFuncionario.Show();
 
         }
@@ -56,6 +57,12 @@ namespace Bibliotecon
         private void UserControlConsultaSelecao_Load(object sender, EventArgs e)
         {
 
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            ConsultaExemplar consultareexemplar = new ConsultaExemplar();
+            consultareexemplar.Show();
         }
     }
 }

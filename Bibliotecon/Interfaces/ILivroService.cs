@@ -11,7 +11,8 @@ namespace Bibliotecon.Interfaces
     public interface ILivroService
     {
         Task<CadastroLivroResponse> InserirLivroAsync(CadastroLivroRequest request);
-   
+
+        List<Livro> PesquisarLivros(int  codlivros);
     }
 }
 

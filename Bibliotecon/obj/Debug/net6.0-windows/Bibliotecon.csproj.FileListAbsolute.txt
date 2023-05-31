@@ -709,7 +709,6 @@ C:\Users\Guilherme Salgado\Desktop\ATUAL NAO CONFUNDIR\bibliotecon\Bibliotecon\o
 C:\Users\Guilherme Salgado\Desktop\ATUAL NAO CONFUNDIR\bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.CadastroLivros.resources
 C:\Users\Guilherme Salgado\Desktop\ATUAL NAO CONFUNDIR\bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.ConsultaEmprestimo.resources
 C:\Users\Guilherme Salgado\Desktop\ATUAL NAO CONFUNDIR\bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.ConsultarDevolucao.resources
-C:\Users\Guilherme Salgado\Desktop\ATUAL NAO CONFUNDIR\bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.ConsultarFuncionario.resources
 C:\Users\Guilherme Salgado\Desktop\ATUAL NAO CONFUNDIR\bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.ConsultarLivros.resources
 C:\Users\Guilherme Salgado\Desktop\ATUAL NAO CONFUNDIR\bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.ConsultarReservas.resources
 C:\Users\Guilherme Salgado\Desktop\ATUAL NAO CONFUNDIR\bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.ConsultarSelecao.resources
@@ -734,3 +733,5 @@ C:\Users\Guilherme Salgado\Desktop\ATUAL NAO CONFUNDIR\bibliotecon\Bibliotecon\o
 C:\Users\Guilherme Salgado\Desktop\ATUAL NAO CONFUNDIR\bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.pdb
 C:\Users\Guilherme Salgado\Desktop\ATUAL NAO CONFUNDIR\bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.genruntimeconfig.cache
 C:\Users\Guilherme Salgado\Desktop\ATUAL NAO CONFUNDIR\bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\ref\Bibliotecon.dll
+C:\Users\Guilherme Salgado\Desktop\ATUAL NAO CONFUNDIR\bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.ConsultarLeitor.resources
+C:\Users\Guilherme Salgado\Desktop\ATUAL NAO CONFUNDIR\bibliotecon\Bibliotecon\obj\Debug\net6.0-windows\Bibliotecon.Forms.ConsultaExemplar.resources

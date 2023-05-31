@@ -19,10 +19,13 @@
     <Compile Update="Forms\ConsultaEmprestimo.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Forms\ConsultaExemplar.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Forms\ConsultarDevolucao.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Forms\ConsultarFuncionario.cs">
+    <Compile Update="Forms\ConsultarLeitor.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Forms\ConsultarLivros.cs">
