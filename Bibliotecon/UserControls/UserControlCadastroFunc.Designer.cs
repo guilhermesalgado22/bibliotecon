@@ -30,7 +30,6 @@
         {
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
-            this.textBox12 = new System.Windows.Forms.TextBox();
             this.textBox10 = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.textBox9 = new System.Windows.Forms.TextBox();
@@ -66,23 +65,14 @@
             this.button2.Text = "Voltar";
             this.button2.UseVisualStyleBackColor = true;
             // 
-            // textBox12
-            // 
-            this.textBox12.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.textBox12.Location = new System.Drawing.Point(596, 275);
-            this.textBox12.Name = "textBox12";
-            this.textBox12.Size = new System.Drawing.Size(87, 29);
-            this.textBox12.TabIndex = 57;
-            this.textBox12.Text = "Status";
-            // 
             // textBox10
             // 
             this.textBox10.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.textBox10.Location = new System.Drawing.Point(135, 275);
             this.textBox10.Name = "textBox10";
+            this.textBox10.PlaceholderText = "RG";
             this.textBox10.Size = new System.Drawing.Size(196, 29);
             this.textBox10.TabIndex = 56;
-            this.textBox10.Text = "RG";
             // 
             // label1
             // 
@@ -99,54 +89,54 @@
             this.textBox9.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.textBox9.Location = new System.Drawing.Point(235, 221);
             this.textBox9.Name = "textBox9";
+            this.textBox9.PlaceholderText = "Data Nascimento";
             this.textBox9.Size = new System.Drawing.Size(203, 29);
             this.textBox9.TabIndex = 54;
-            this.textBox9.Text = "Data Nascimento";
             // 
             // textBox7
             // 
             this.textBox7.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.textBox7.Location = new System.Drawing.Point(135, 221);
             this.textBox7.Name = "textBox7";
+            this.textBox7.PlaceholderText = "Sexo";
             this.textBox7.Size = new System.Drawing.Size(68, 29);
             this.textBox7.TabIndex = 52;
-            this.textBox7.Text = "Sexo";
             // 
             // textBox6
             // 
             this.textBox6.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.textBox6.Location = new System.Drawing.Point(613, 166);
             this.textBox6.Name = "textBox6";
+            this.textBox6.PlaceholderText = "Telefone";
             this.textBox6.Size = new System.Drawing.Size(173, 29);
             this.textBox6.TabIndex = 51;
-            this.textBox6.Text = "Telefone";
             // 
             // textBox5
             // 
             this.textBox5.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.textBox5.Location = new System.Drawing.Point(135, 166);
             this.textBox5.Name = "textBox5";
+            this.textBox5.PlaceholderText = "Cidade";
             this.textBox5.Size = new System.Drawing.Size(223, 29);
             this.textBox5.TabIndex = 50;
-            this.textBox5.Text = "Cidade";
             // 
             // textBox3
             // 
             this.textBox3.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.textBox3.Location = new System.Drawing.Point(480, 110);
             this.textBox3.Name = "textBox3";
+            this.textBox3.PlaceholderText = "Endereço";
             this.textBox3.Size = new System.Drawing.Size(288, 29);
             this.textBox3.TabIndex = 48;
-            this.textBox3.Text = "Endereço";
             // 
             // textBox13
             // 
             this.textBox13.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.textBox13.Location = new System.Drawing.Point(135, 110);
             this.textBox13.Name = "textBox13";
+            this.textBox13.PlaceholderText = "Nome";
             this.textBox13.Size = new System.Drawing.Size(320, 29);
             this.textBox13.TabIndex = 46;
-            this.textBox13.Text = "Nome";
             // 
             // pictureBox2
             // 
@@ -163,18 +153,18 @@
             this.textBox1.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.textBox1.Location = new System.Drawing.Point(480, 221);
             this.textBox1.Name = "textBox1";
+            this.textBox1.PlaceholderText = "Cpf";
             this.textBox1.Size = new System.Drawing.Size(203, 29);
             this.textBox1.TabIndex = 62;
-            this.textBox1.Text = "Cpf";
             // 
             // textBox2
             // 
             this.textBox2.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.textBox2.Location = new System.Drawing.Point(373, 166);
             this.textBox2.Name = "textBox2";
+            this.textBox2.PlaceholderText = "Bairro";
             this.textBox2.Size = new System.Drawing.Size(223, 29);
             this.textBox2.TabIndex = 63;
-            this.textBox2.Text = "Bairro";
             // 
             // UserControlCadastroFunc
             // 
@@ -185,7 +175,6 @@
             this.Controls.Add(this.pictureBox2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.button2);
-            this.Controls.Add(this.textBox12);
             this.Controls.Add(this.textBox10);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.textBox9);
@@ -206,7 +195,6 @@
 
         private Button button1;
         private Button button2;
-        private TextBox textBox12;
         private TextBox textBox10;
         private Label label1;
         private TextBox textBox9;

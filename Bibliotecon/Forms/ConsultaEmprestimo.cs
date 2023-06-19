@@ -68,7 +68,12 @@ namespace Bibliotecon
         }
         private void button1_Click(object sender, EventArgs e)
         {
-            if (int.TryParse(textBox1.Text, out int codigoEmprestimo))
+            if (string.IsNullOrWhiteSpace(textBox1.Text))
+            {
+                // Se o campo de texto está vazio, retorne a pesquisa completa
+                LoadData();
+            }
+            else if (int.TryParse(textBox1.Text, out int codigoEmprestimo))
             {
                 List<ExemplarEmprestimo> emprestimos = _cadastroEmprestimo.PesquisarEmprestimos(codigoEmprestimo);
                 

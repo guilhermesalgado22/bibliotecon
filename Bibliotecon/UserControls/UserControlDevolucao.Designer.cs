@@ -35,6 +35,7 @@
             this.button2 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
             this.comboBox4 = new System.Windows.Forms.ComboBox();
+            this.label4 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -43,9 +44,9 @@
             this.textBox9.Font = new System.Drawing.Font("Segoe UI", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.textBox9.Location = new System.Drawing.Point(586, 129);
             this.textBox9.Name = "textBox9";
+            this.textBox9.PlaceholderText = "Data Devolução";
             this.textBox9.Size = new System.Drawing.Size(187, 34);
             this.textBox9.TabIndex = 63;
-            this.textBox9.Text = "Data Devolução";
             this.textBox9.TextChanged += new System.EventHandler(this.textBox9_TextChanged);
             // 
             // Codi
@@ -53,9 +54,9 @@
             this.Codi.Font = new System.Drawing.Font("Segoe UI", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.Codi.Location = new System.Drawing.Point(211, 129);
             this.Codi.Name = "Codi";
+            this.Codi.PlaceholderText = "Código";
             this.Codi.Size = new System.Drawing.Size(94, 34);
             this.Codi.TabIndex = 57;
-            this.Codi.Text = "Código";
             // 
             // label2
             // 
@@ -110,10 +111,21 @@
             this.comboBox4.TabIndex = 70;
             this.comboBox4.SelectedIndexChanged += new System.EventHandler(this.comboBox4_SelectedIndexChanged);
             // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.label4.Location = new System.Drawing.Point(338, 105);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(92, 21);
+            this.label4.TabIndex = 71;
+            this.label4.Text = "Funcionário";
+            // 
             // UserControlDevolucao
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.Controls.Add(this.label4);
             this.Controls.Add(this.comboBox4);
             this.Controls.Add(this.textBox9);
             this.Controls.Add(this.Codi);
@@ -140,5 +152,6 @@
         private Button button2;
         private Button button1;
         private ComboBox comboBox4;
+        private Label label4;
     }
 }
